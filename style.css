@@ -1,0 +1,51 @@
+.navbar {
+  background-color: rgba(0, 255, 136, 0.788);
+}
+
+.img-fluid {
+  height: 150px;
+  width: 220px;
+}
+.btn-hitung {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.btn-hitung:hover {
+  background-color: #3e8e41;
+}
+.img-fluid {
+  height: 220px;
+  width: 150px;
+}
+
+.btn-hitung:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.img1 {
+  width: 680px;
+}
+h6 {
+  text-size-adjust: 5;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.box {
+  width: 1000px;
+  height: 2250px;
+  background-color: white;
+}
